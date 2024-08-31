@@ -11,7 +11,7 @@ The New York Times,
 And more...
 
 The platform enables users to view headlines from various newspapers, categorize news into sections, and stay updated with the latest global news. 
-Built with Spring Boot for backend services and React.js for a dynamic frontend, NewsFusion Pro ensures an engaging and seamless user experience.
+Built with Spring Boot for backend services and React.js for a dynamic frontend, NewsFusion ensures an engaging and seamless user experience.
 
 ## Features
 1. Real-Time Aggregation: Access up-to-the-minute headlines from top newspapers, including The Hindu, India Times, The New York Times, and more.

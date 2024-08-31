@@ -1,0 +1,19 @@
+/* Home Page Styles */
+.home {
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.home h2 {
+    margin-bottom: 10px;
+}
+
+.home ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.home ul li {
+    margin: 10px 0;
+}

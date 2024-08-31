@@ -4,7 +4,7 @@ The application features a sleek user interface and robust backend services, off
 
 # Overview
 
-### NewsFusion Pro integrates news from prominent sources such as:
+### NewsFusion integrates news from prominent sources such as:
 The Hindu,
 India Times,
 The New York Times,

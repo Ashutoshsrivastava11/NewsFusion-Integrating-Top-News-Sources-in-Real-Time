@@ -1,6 +1,7 @@
 # NewsFusion
 
-**NewsFusion** is an advanced news aggregation platform that consolidates real-time headlines from leading global newspapers. The application features a sleek user interface and robust backend services, offering users an intuitive way to access and navigate through diverse news sources.
+**NewsFusion** is an advanced news aggregation platform that consolidates real-time headlines from leading global newspapers. 
+The application features a sleek user interface and robust backend services, offering users an intuitive way to access and navigate through diverse news sources.
 
 ## Overview
 
@@ -10,7 +11,8 @@ NewsFusion integrates news from prominent sources such as:
 - The New York Times
 - And more...
 
-The platform enables users to view headlines from various newspapers, categorize news into sections, and stay updated with the latest global news. Built with Spring Boot for backend services and React.js for a dynamic frontend, NewsFusion ensures an engaging and seamless user experience.
+The platform enables users to view headlines from various newspapers, categorize news into sections, and stay updated with the latest global news. 
+Built with Spring Boot for backend services and React.js for a dynamic frontend, NewsFusion ensures an engaging and seamless user experience.
 
 ## Features
 
@@ -36,19 +38,3 @@ The platform enables users to view headlines from various newspapers, categorize
 
 - **Version Control:** 
   - **Git** for source code management.
-
-## Getting Started
-
-### Prerequisites
-
-- **Java 11+**: Required for running the Spring Boot application.
-- **Node.js & npm**: Required for running the React.js frontend.
-- **MySQL**: Required for the database.
-
-### Backend Setup (Spring Boot)
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/newsfusion.git
-   cd newsfusion

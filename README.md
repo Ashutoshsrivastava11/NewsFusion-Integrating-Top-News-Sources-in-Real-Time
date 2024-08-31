@@ -5,9 +5,9 @@ The application features a sleek user interface and robust backend services, off
 # Overview
 
 ### NewsFusion Pro integrates news from prominent sources such as:
-The Hindu
-India Times
-The New York Times
+The Hindu,
+India Times,
+The New York Times,
 And more...
 
 The platform enables users to view headlines from various newspapers, categorize news into sections, and stay updated with the latest global news. 

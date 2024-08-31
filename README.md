@@ -27,7 +27,7 @@ Spring Boot for creating a powerful and scalable backend service.
 ### Frontend: 
 React.js for building a dynamic and interactive user interface.
 ### Database: 
-MySQL for storing and managing news data.
+SQL for storing and managing news data.
 ### Build Tools: 
 Maven or Gradle for project management and build automation.
 ### Version Control: 
